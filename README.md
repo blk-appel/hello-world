@@ -1,2 +1,2 @@
 # hello-world
-Testing creation of repository
+Testing the editing of a repository
